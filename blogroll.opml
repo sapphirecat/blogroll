@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Subscriptions - RSS</title>
+	</head>
+	<body>
+		<outline text="Background" title="Background">
+			<outline htmlUrl="https://blog.regehr.org" title="Embedded in Academia" xmlUrl="https://feeds.feedburner.com/EmbeddedInAcademia" type="rss" text="Embedded in Academia"/>
+		</outline>
+		<outline text="Comics" title="Comics">
+			<outline htmlUrl="https://www.egscomics.com/" title="EGS Sketchbook" xmlUrl="https://www.egscomics.com/sketchbook/rss" type="rss" text="EGS Sketchbook"/>
+			<outline htmlUrl="https://twokinds.keenspot.com" title="Twokinds" xmlUrl="https://twokinds.keenspot.com/feed.xml" type="rss" text="Twokinds"/>
+		</outline>
+		<outline text="Crypto" title="Crypto">
+			<outline htmlUrl="https://blog.cryptographyengineering.com" title="A Few Thoughts on Cryptographic Engineering" xmlUrl="https://blog.cryptographyengineering.com/feed/" type="rss" text="A Few Thoughts on Cryptographic Engineering"/>
+			<outline htmlUrl="https://buttondown.email/cryptography-dispatches" title="Cryptography Dispatches - filippo.io" xmlUrl="https://buttondown.email/cryptography-dispatches/rss" type="rss" text="Cryptography Dispatches - filippo.io"/>
+			<outline htmlUrl="http://www.imperialviolet.org/" title="ImperialViolet" xmlUrl="https://www.imperialviolet.org/iv-rss.xml" type="rss" text="ImperialViolet"/>
+			<outline htmlUrl="https://keymaterial.net" title="Key Material" xmlUrl="https://keymaterial.net/feed/" type="rss" text="Key Material"/>
+			<outline htmlUrl="https://micro.blog/" title="Micro.blog - Latacora" xmlUrl="https://micro.blog/posts/latacora" type="rss" text="Micro.blog - Latacora"/>
+		</outline>
+		<outline text="Firefox" title="Firefox">
+			<outline htmlUrl="https://mikeconley.ca/blog" title="A Blog by Mike Conley" xmlUrl="https://mikeconley.ca/blog/feed/" type="rss" text="A Blog by Mike Conley"/>
+			<outline htmlUrl="https://blog.nightly.mozilla.org" title="Firefox Nightly News" xmlUrl="https://blog.nightly.mozilla.org/feed/" type="rss" text="Firefox Nightly News"/>
+			<outline htmlUrl="https://blog.mozilla.org/security" title="Mozilla Security Blog" xmlUrl="https://blog.mozilla.org/security/feed/" type="rss" text="Mozilla Security Blog"/>
+		</outline>
+		<outline text="Interesting" title="Interesting">
+			<outline htmlUrl="https://apenwarr.ca/log/" title="apenwarr" xmlUrl="https://apenwarr.ca/log/rss.php" type="rss" text="apenwarr"/>
+			<outline htmlUrl="https://utcc.utoronto.ca/~cks/space/blog/" title="Chris's Wiki :: blog" xmlUrl="https://utcc.utoronto.ca/~cks/space/blog/?atom" type="rss" text="Chris's Wiki :: blog"/>
+			<outline htmlUrl="https://www.solipsys.co.uk/new/ColinsBlog.html" title="Colin Wright - Random Ramblings on Math, Juggling, Programming, Business" xmlUrl="https://www.solipsys.co.uk/rss.xml" type="rss" text="Colin Wright - Random Ramblings on Math, Juggling, Programming, Business"/>
+			<outline htmlUrl="https://danluu.com/atom/index.xml" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" type="rss" text="Dan Luu"/>
+			<outline htmlUrl="https://soatok.blog" title="Dhole Moments" xmlUrl="https://soatok.blog/feed/" type="rss" text="Dhole Moments"/>
+			<outline htmlUrl="https://michael.stapelberg.ch/posts/tags/distri/" title="distri - Michael Stapelberg" xmlUrl="https://michael.stapelberg.ch/posts/tags/distri/feed.xml" type="rss" text="distri - Michael Stapelberg"/>
+			<outline htmlUrl="https://flak.tedunangst.com/" title="flak" xmlUrl="http://www.tedunangst.com/flak/rss" type="rss" text="flak"/>
+			<outline htmlUrl="https://eev.ee/" title="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" type="rss" text="fuzzy notepad"/>
+			<outline htmlUrl="https://mjg59.dreamwidth.org/" title="Matthew Garrett" xmlUrl="https://mjg59.dreamwidth.org/data/atom" type="rss" text="Matthew Garrett"/>
+			<outline htmlUrl="https://hacks.mozilla.org" title="Mozilla Hacks – the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" text="Mozilla Hacks – the Web developer blog"/>
+			<outline htmlUrl="https://nullprogram.com" title="null program" xmlUrl="https://nullprogram.com/feed/" type="rss" text="null program"/>
+			<outline htmlUrl="http://phpstorm.tips/tips/" title="PHPStorm Tips" xmlUrl="https://phpstorm.tips/tips/index.xml" type="rss" text="PHPStorm Tips"/>
+			<outline htmlUrl="http://thecodelesscode.com" title="The Codeless Code" xmlUrl="http://thecodelesscode.com/rss" type="rss" text="The Codeless Code"/>
+			<outline htmlUrl="https://www.hackerfactor.com/blog/" title="The Hacker Factor Blog" xmlUrl="http://hackerfactor.com/blog/index.php?/feeds/index.rss2" type="rss" text="The Hacker Factor Blog"/>
+		</outline>
+		<outline text="Languages" title="Languages">
+			<outline htmlUrl="https://thephp.website/" title="thePHP Website" xmlUrl="https://thephp.website/en/feed.xml" type="rss" text="thePHP Website"/>
+		</outline>
+		<outline text="Releases" title="Releases">
+			<outline htmlUrl="https://github.com/aws/aws-codedeploy-agent/releases" title="aws-codedeploy-agent" xmlUrl="https://github.com/aws/aws-codedeploy-agent/releases.atom" type="rss" text="aws-codedeploy-agent"/>
+			<outline htmlUrl="https://github.com/aws/aws-sdk-php/releases" title="aws-sdk-php" xmlUrl="https://github.com/aws/aws-sdk-php/releases.atom" type="rss" text="aws-sdk-php"/>
+			<outline htmlUrl="https://github.com/99designs/aws-vault/releases" title="aws-vault" xmlUrl="https://github.com/99designs/aws-vault/releases.atom" type="rss" text="aws-vault"/>
+			<outline htmlUrl="https://github.com/composer/composer/releases" title="composer" xmlUrl="https://github.com/composer/composer/releases.atom" type="rss" text="composer"/>
+			<outline htmlUrl="https://github.com/FortAwesome/Font-Awesome/releases" title="Font-Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom" type="rss" text="Font-Awesome"/>
+			<outline htmlUrl="https://blog.jetbrains.com" title="JetBrains News" xmlUrl="https://blog.jetbrains.com/blog/category/news/feed/" type="rss" text="JetBrains News"/>
+			<outline htmlUrl="https://github.com/jquery/jquery/releases" title="jquery" xmlUrl="https://github.com/jquery/jquery/releases.atom" type="rss" text="jquery"/>
+			<outline htmlUrl="https://github.com/jquery/jquery-color/releases" title="jquery-color" xmlUrl="https://github.com/jquery/jquery-color/releases.atom" type="rss" text="jquery-color"/>
+			<outline htmlUrl="https://github.com/mailgun/mailgun-php/releases" title="mailgun-php" xmlUrl="https://github.com/mailgun/mailgun-php/releases.atom" type="rss" text="mailgun-php"/>
+			<outline htmlUrl="https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases" title="PHP-CS-Fixer" xmlUrl="https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases.atom" type="rss" text="PHP-CS-Fixer"/>
+			<outline htmlUrl="https://github.com/PHP-DI/PHP-DI/releases" title="PHP-DI" xmlUrl="https://github.com/PHP-DI/PHP-DI/releases.atom" type="rss" text="PHP-DI"/>
+			<outline htmlUrl="https://github.com/defuse/php-encryption/releases" title="php-encryption" xmlUrl="https://github.com/defuse/php-encryption/releases.atom" type="rss" text="php-encryption"/>
+			<outline title="PHP.net releases" xmlUrl="http://php.net/releases/feed.php" type="rss" text="PHP.net releases"/>
+			<outline htmlUrl="https://github.com/phpseclib/phpseclib/releases" title="phpseclib" xmlUrl="https://github.com/phpseclib/phpseclib/releases.atom" type="rss" text="phpseclib"/>
+			<outline htmlUrl="https://github.com/papertrail/remote_syslog2/releases" title="remote_syslog2" xmlUrl="https://github.com/papertrail/remote_syslog2/releases.atom" type="rss" text="remote_syslog2"/>
+			<outline htmlUrl="https://github.com/BurntSushi/ripgrep/releases" title="ripgrep" xmlUrl="https://github.com/BurntSushi/ripgrep/releases.atom" type="rss" text="ripgrep"/>
+			<outline htmlUrl="https://github.com/twilio/twilio-php/releases" title="twilio SDK" xmlUrl="https://github.com/twilio/twilio-php/releases.atom" type="rss" text="twilio SDK"/>
+		</outline>
+		<outline text="Site Status" title="Site Status">
+			<outline htmlUrl="https://www.papertrailstatus.com" title="Papertrail - Incidents" xmlUrl="https://www.papertrailstatus.com/history.atom" type="rss" text="Papertrail - Incidents"/>
+		</outline>
+	</body>
+</opml>
