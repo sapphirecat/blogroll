@@ -8,20 +8,22 @@
 			<outline htmlUrl="https://blog.regehr.org" title="Embedded in Academia" xmlUrl="https://feeds.feedburner.com/EmbeddedInAcademia" type="rss" text="Embedded in Academia"/>
 		</outline>
 		<outline text="Comics" title="Comics">
+			<outline htmlUrl="https://www.egscomics.com/" title="EGS Main" xmlUrl="https://www.egscomics.com/comic/rss" type="rss" text="EGS Main"/>
+			<outline htmlUrl="https://www.egscomics.com/" title="EGS NewsPaper" xmlUrl="https://www.egscomics.com/egsnp/rss" type="rss" text="EGS NewsPaper"/>
 			<outline htmlUrl="https://www.egscomics.com/" title="EGS Sketchbook" xmlUrl="https://www.egscomics.com/sketchbook/rss" type="rss" text="EGS Sketchbook"/>
 			<outline htmlUrl="https://twokinds.keenspot.com" title="Twokinds" xmlUrl="https://twokinds.keenspot.com/feed.xml" type="rss" text="Twokinds"/>
+			<outline htmlUrl="https://freefall.purrsia.com/" title="Freefall" xmlUrl="https://crosstimecafe.com/Webcomics/Feeds/Freefall.xml"text="Freefall" type="rss" text="Freefall"/>
+			<outline htmlUrl="https://xkcd.com/" title="XKCD" xmlUrl="https://xkcd.com/atom.xml" type="rss" text="XKCD"/>
 		</outline>
 		<outline text="Crypto" title="Crypto">
 			<outline htmlUrl="https://blog.cryptographyengineering.com" title="A Few Thoughts on Cryptographic Engineering" xmlUrl="https://blog.cryptographyengineering.com/feed/" type="rss" text="A Few Thoughts on Cryptographic Engineering"/>
-			<outline htmlUrl="https://buttondown.email/cryptography-dispatches" title="Cryptography Dispatches - filippo.io" xmlUrl="https://buttondown.email/cryptography-dispatches/rss" type="rss" text="Cryptography Dispatches - filippo.io"/>
 			<outline htmlUrl="http://www.imperialviolet.org/" title="ImperialViolet" xmlUrl="https://www.imperialviolet.org/iv-rss.xml" type="rss" text="ImperialViolet"/>
 			<outline htmlUrl="https://keymaterial.net" title="Key Material" xmlUrl="https://keymaterial.net/feed/" type="rss" text="Key Material"/>
-			<outline htmlUrl="https://micro.blog/" title="Micro.blog - Latacora" xmlUrl="https://micro.blog/posts/latacora" type="rss" text="Micro.blog - Latacora"/>
 		</outline>
 		<outline text="Firefox" title="Firefox">
-			<outline htmlUrl="https://mikeconley.ca/blog" title="A Blog by Mike Conley" xmlUrl="https://mikeconley.ca/blog/feed/" type="rss" text="A Blog by Mike Conley"/>
-			<outline htmlUrl="https://blog.nightly.mozilla.org" title="Firefox Nightly News" xmlUrl="https://blog.nightly.mozilla.org/feed/" type="rss" text="Firefox Nightly News"/>
 			<outline htmlUrl="https://blog.mozilla.org/security" title="Mozilla Security Blog" xmlUrl="https://blog.mozilla.org/security/feed/" type="rss" text="Mozilla Security Blog"/>
+			<outline htmlUrl="https://blog.nightly.mozilla.org" title="Firefox Nightly News" xmlUrl="https://blog.nightly.mozilla.org/feed/" type="rss" text="Firefox Nightly News"/>
+			<outline htmlUrl="https://mikeconley.ca/blog" title="A Blog by Mike Conley" xmlUrl="https://mikeconley.ca/blog/feed/" type="rss" text="A Blog by Mike Conley"/>
 		</outline>
 		<outline text="Interesting" title="Interesting">
 			<outline htmlUrl="https://apenwarr.ca/log/" title="apenwarr" xmlUrl="https://apenwarr.ca/log/rss.php" type="rss" text="apenwarr"/>
@@ -38,6 +40,11 @@
 			<outline htmlUrl="http://phpstorm.tips/tips/" title="PHPStorm Tips" xmlUrl="https://phpstorm.tips/tips/index.xml" type="rss" text="PHPStorm Tips"/>
 			<outline htmlUrl="http://thecodelesscode.com" title="The Codeless Code" xmlUrl="http://thecodelesscode.com/rss" type="rss" text="The Codeless Code"/>
 			<outline htmlUrl="https://www.hackerfactor.com/blog/" title="The Hacker Factor Blog" xmlUrl="http://hackerfactor.com/blog/index.php?/feeds/index.rss2" type="rss" text="The Hacker Factor Blog"/>
+			<outline htmlUrl="https://words.filippo.io/" title="Filippo Valsorda" type="rss" xmlUrl="https://words.filippo.io/rss/" text="Filippo Valsorda"/>
+			<outline htmlUrl="https://artemis.sh/" title="Artemis Everfree" xmlUrl="https://artemis.sh/feed.xml" type="rss" text="Artemis Everfree"/>
+			<outline htmlUrl="https://dotat.at/@/blog.html" title="Tony Finch" type="rss" xmlUrl="https://dotat.at/@/blog.atom" text="Tony Finch"/>
+			<outline htmlUrl="https://xeiaso.net/" title="Xe Iaso" type="rss" xmlUrl="https://xeiaso.net/blog.rss" text="Xe Iaso"/>
+			<outline htmlUrl="http://jvns.ca" title="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" text="Julia Evans"/>
 		</outline>
 		<outline text="Languages" title="Languages">
 			<outline htmlUrl="https://thephp.website/" title="thePHP Website" xmlUrl="https://thephp.website/en/feed.xml" type="rss" text="thePHP Website"/>
