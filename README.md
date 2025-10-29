@@ -4,7 +4,7 @@ RSS feeds followed by [@sapphirecat](https://github.com/sapphirecat).
 
 ## Usage
 
-Import [blogroll.opml](https://raw.githubusercontent.com/sapphirecat/blogroll/master/blogroll.opml)
+Import [blogroll.opml](https://raw.githubusercontent.com/sapphirecat/blogroll/refs/heads/main/blogroll.opml)
 into your RSS reader.
 
 ## License
