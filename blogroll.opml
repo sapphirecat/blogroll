@@ -34,7 +34,7 @@
 			<outline htmlUrl="https://michael.stapelberg.ch/posts/tags/distri/" title="distri - Michael Stapelberg" xmlUrl="https://michael.stapelberg.ch/posts/tags/distri/feed.xml" type="rss" text="distri - Michael Stapelberg"/>
 			<outline htmlUrl="https://flak.tedunangst.com/" title="flak" xmlUrl="http://www.tedunangst.com/flak/rss" type="rss" text="flak"/>
 			<outline htmlUrl="https://eev.ee/" title="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" type="rss" text="fuzzy notepad"/>
-			<outline htmlUrl="https://mjg59.dreamwidth.org/" title="Matthew Garrett" xmlUrl="https://mjg59.dreamwidth.org/data/atom" type="rss" text="Matthew Garrett"/>
+			<outline htmlUrl="https://codon.org.uk/~mjg59/blog/" title="Matthew Garrett" xmlUrl="https://codon.org.uk/~mjg59/blog/index.xml" type="rss" text="Matthew Garrett"/>
 			<outline htmlUrl="https://hacks.mozilla.org" title="Mozilla Hacks – the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" text="Mozilla Hacks – the Web developer blog"/>
 			<outline htmlUrl="http://phpstorm.tips/tips/" title="PHPStorm Tips" xmlUrl="https://phpstorm.tips/tips/index.xml" type="rss" text="PHPStorm Tips"/>
 			<outline htmlUrl="http://thecodelesscode.com" title="The Codeless Code" xmlUrl="http://thecodelesscode.com/rss" type="rss" text="The Codeless Code"/>
