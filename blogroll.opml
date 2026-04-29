@@ -36,7 +36,6 @@
 			<outline htmlUrl="https://eev.ee/" title="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" type="rss" text="fuzzy notepad"/>
 			<outline htmlUrl="https://mjg59.dreamwidth.org/" title="Matthew Garrett" xmlUrl="https://mjg59.dreamwidth.org/data/atom" type="rss" text="Matthew Garrett"/>
 			<outline htmlUrl="https://hacks.mozilla.org" title="Mozilla Hacks – the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" text="Mozilla Hacks – the Web developer blog"/>
-			<outline htmlUrl="https://nullprogram.com" title="null program" xmlUrl="https://nullprogram.com/feed/" type="rss" text="null program"/>
 			<outline htmlUrl="http://phpstorm.tips/tips/" title="PHPStorm Tips" xmlUrl="https://phpstorm.tips/tips/index.xml" type="rss" text="PHPStorm Tips"/>
 			<outline htmlUrl="http://thecodelesscode.com" title="The Codeless Code" xmlUrl="http://thecodelesscode.com/rss" type="rss" text="The Codeless Code"/>
 			<outline htmlUrl="https://www.hackerfactor.com/blog/" title="The Hacker Factor Blog" xmlUrl="http://hackerfactor.com/blog/index.php?/feeds/index.rss2" type="rss" text="The Hacker Factor Blog"/>
