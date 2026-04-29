@@ -49,7 +49,6 @@
 			<outline htmlUrl="https://thephp.website/" title="thePHP Website" xmlUrl="https://thephp.website/en/feed.xml" type="rss" text="thePHP Website"/>
 		</outline>
 		<outline text="Releases" title="Releases">
-			<outline htmlUrl="https://github.com/aws/aws-codedeploy-agent/releases" title="aws-codedeploy-agent" xmlUrl="https://github.com/aws/aws-codedeploy-agent/releases.atom" type="rss" text="aws-codedeploy-agent"/>
 			<outline htmlUrl="https://github.com/aws/aws-sdk-php/releases" title="aws-sdk-php" xmlUrl="https://github.com/aws/aws-sdk-php/releases.atom" type="rss" text="aws-sdk-php"/>
 			<outline htmlUrl="https://github.com/99designs/aws-vault/releases" title="aws-vault" xmlUrl="https://github.com/99designs/aws-vault/releases.atom" type="rss" text="aws-vault"/>
 			<outline htmlUrl="https://github.com/composer/composer/releases" title="composer" xmlUrl="https://github.com/composer/composer/releases.atom" type="rss" text="composer"/>
