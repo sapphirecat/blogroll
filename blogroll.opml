@@ -56,7 +56,6 @@
 			<outline htmlUrl="https://github.com/FortAwesome/Font-Awesome/releases" title="Font-Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom" type="rss" text="Font-Awesome"/>
 			<outline htmlUrl="https://blog.jetbrains.com" title="JetBrains News" xmlUrl="https://blog.jetbrains.com/blog/category/news/feed/" type="rss" text="JetBrains News"/>
 			<outline htmlUrl="https://github.com/jquery/jquery/releases" title="jquery" xmlUrl="https://github.com/jquery/jquery/releases.atom" type="rss" text="jquery"/>
-			<outline htmlUrl="https://github.com/jquery/jquery-color/releases" title="jquery-color" xmlUrl="https://github.com/jquery/jquery-color/releases.atom" type="rss" text="jquery-color"/>
 			<outline htmlUrl="https://github.com/mailgun/mailgun-php/releases" title="mailgun-php" xmlUrl="https://github.com/mailgun/mailgun-php/releases.atom" type="rss" text="mailgun-php"/>
 			<outline htmlUrl="https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases" title="PHP-CS-Fixer" xmlUrl="https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases.atom" type="rss" text="PHP-CS-Fixer"/>
 			<outline htmlUrl="https://github.com/PHP-DI/PHP-DI/releases" title="PHP-DI" xmlUrl="https://github.com/PHP-DI/PHP-DI/releases.atom" type="rss" text="PHP-DI"/>
